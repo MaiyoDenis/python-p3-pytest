@@ -93,7 +93,7 @@ details. We'll see how pytest improves upon this process in just a bit.
 ***
 
 ## What Does a pytest Test Look Like?
-
+`
 While you've worked with several pytest tests up to this point, you may not
 have dug into the test files themselves. Let's do that now.
 
